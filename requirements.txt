@@ -1,5 +1,5 @@
-streamlit
-pymupdf
-pymupdf4llm
-mammoth
-markdownify
+streamlit>=1.35.0
+pymupdf>=1.24.0
+pymupdf4llm>=0.0.10
+mammoth>=1.8.0
+markdownify>=0.12.0
